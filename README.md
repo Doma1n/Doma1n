@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Doma1n
 - 👀 I’m interested in Programing, modelling, video editing etc.
-- 🌱 I’m currently learning Programing and Unreal Engine 4.
+- 🌱 I’m currently learning Java...
 - 💞️ I’m looking to collaborate on.. wait no I don't currently.
 - 📫 How to reach me: [ █████████████ ]
