@@ -1,5 +1,1 @@
-- 👋 Hi, I’m @Doma1n
-- 👀 I’m interested in Programing, modelling, video editing etc.
-- 🌱 I’m currently learning Java...
-- 💞️ I’m looking to collaborate on.. wait no I don't currently.
-- 📫 How to reach me: [ █████████████ ]
+Hi, I'm Doma1n, this GitHub is my hobby/portfolio profile. Public projects here are for showcase only, but technically they are MIT licenced so if you find them charming, be my guest.
